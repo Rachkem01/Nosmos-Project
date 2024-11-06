@@ -44,7 +44,7 @@ body{
     visibility: hidden;
 }
 
-@media ( max-width:600px) {
+/* @media ( max-width:600px) {
    
     }
    .Home .nav1 ul{
@@ -61,7 +61,7 @@ body{
     }
 
 }
-
+ */
 .Home .nav1 li{
     list-style: none;
     padding-left: 20px;
